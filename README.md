@@ -3,7 +3,7 @@
 💻 Fullstack .NET Developer | Angular | React | SQL Server | Azure | Docker
 
 ## 🚀 About Me
-- 🌍 Driven by innovation, lifelong learning, and a mission to make a global impact in technology. Always exploring new ideas to build scalable and efficient solutions..
+- 🌍 Driven by innovation, lifelong learning, and a mission to make a global impact in technology.
 - 💡 Experienced in .NET, C#, Web APIs, and frontend frameworks.
 - 🔥 Currently developing my own **Task Manager System**.
 
